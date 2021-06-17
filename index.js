@@ -13,6 +13,3 @@ function matchName(drivers, string){
 }
 
 
-
-// let bigCities = cities.filter(city => city.population > 3000000);
-// console.log(bigCities);
